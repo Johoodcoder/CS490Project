@@ -1,5 +1,4 @@
-# CS490Project
-Repository for team return "A+"; CS490 Deep Learning project.
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/designed-in-etch-a-sketch.svg)](https://forthebadge.com)
 
 ## Getting to your python notebook
 1. Navigate to your specific branch
